@@ -8,21 +8,31 @@ It provides AI-powered responses using the Groq API (Llama 3.1 model) and featur
 **AI-powered responses via Groq API**
 
 Dark / Light mode toggle
+
 Chat auto-save using localStorage
+
 Delete messages & start new chat
+
 Prevents empty message sending
+
 Responsive design (mobile-friendly)
 
 **🛠️ Tech Stack**
 
 HTML5
+
 CSS3
+
 Vanilla JavaScript
+
 Groq API (Llama 3.1 8B Instant)
 
 **🚀 How to Run**
 
 Clone the repository
+
 Open JavaScript file
+
 Add your Groq API key in the JavaScript 
+
 Start chatting 🎉
