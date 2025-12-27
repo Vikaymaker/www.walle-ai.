@@ -1,5 +1,5 @@
 /* ========== CONFIG ========== */
-const API_KEY = "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";
+const API_KEY = "groq_API_KEY";
 const API_URL = "https://api.groq.com/openai/v1/chat/completions";
 
 /* ========== ELEMENTS ========== */
@@ -99,4 +99,5 @@ function typeTitle() {
 }
 
 typeTitle();
+
 
