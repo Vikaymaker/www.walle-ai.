@@ -1,38 +1,33 @@
-**🤖 WALL-E AI – Basic Chatbot**
+# 🤖 WALLE-AI – AI Chatbot using Groq API
 
-WALL-E AI is a simple web-based chatbot built using HTML, CSS, and JavaScript.
-It provides AI-powered responses using the Groq API (Llama 3.1 model) and features a clean, ChatGPT-style interface.
+WALLE-AI is a simple AI-powered chatbot web application that provides **fast and intelligent responses** using the **Groq API**.  
+The project demonstrates real-time AI interaction through a Flask backend and a clean web-based user interface.
 
-**✨ Features**
+---
+## 📸 Screenshot
 
-**AI-powered responses via Groq API**
+![WALLE-AI Chatbot UI](output.png)
 
-Dark / Light mode toggle
+---
+## 📌 Features
+- Real-time AI chatbot responses  
+- Powered by Groq API (LLM)  
+- Fast and low-latency inference  
+- Flask-based REST backend  
+- Simple HTML/CSS/JavaScript frontend  
+- Clean and easy-to-understand implementation  
 
-Chat auto-save using localStorage
+---
+## ⚙️ Requirements
+- Groq API key
 
-Delete messages & start new chat
+---
+## 🛠 Installation
 
-Prevents empty message sending
-
-Responsive design (mobile-friendly)
-
-**🛠️ Tech Stack**
-
-HTML5
-
-CSS3
-
-Vanilla JavaScript
-
-Groq API (Llama 3.1 8B Instant)
-
-**🚀 How to Run**
-
-Clone the repository
-
-Open JavaScript file
-
-Add your Groq API key in the JavaScript 
-
-Start chatting 🎉
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/Vikaymaker/www.walle-ai.git
+cd www.walle-ai
+```
+### Set Groq API Key
+set GROQ_API_KEY=your_api_key_here (IN script file)
